@@ -33,7 +33,7 @@ flex-wrap: wrap;
 }
 
 .but1{
-  background-image: url(E:/Мой_сайт/Сайт-портфолио/instagram.png);
+  background-image: url(https://nek18k.github.io/sayt/instagram.png);
   background-repeat: no-repeat;
   background-size: 100%;
   background-position:center;
@@ -43,7 +43,7 @@ margin-right: calc(4% - 5px);
 
 }
 .but2{
-  background-image: url(E:/Мой_сайт/Сайт-портфолио/Gmail_Icon.png);
+  background-image: url(https://nek18k.github.io/sayt/Gmail_Icon.png);
   background-repeat: no-repeat;
   background-size: 100%;
   background-position:center;
@@ -61,7 +61,7 @@ margin-right: calc(5% - 5px);
 }
 
 .header-logo{
-  background-image: url(E:/Мой_сайт/Сайт-портфолио/Безымянный-1.png);
+  background-image: url(https://nek18k.github.io/sayt/Безымянный-1.png);
   background-repeat: no-repeat;
   background-size: 100%;
   background-position:center;
@@ -160,7 +160,7 @@ background-color: #49A5A5;
   width:calc(20% + 200px);
   top:10%;
  right:17%;
-background-image: url(E:/Мой_сайт/Сайт-портфолио/anime-gul.jpg);
+background-image: url(https://nek18k.github.io/sayt/anime-gul.jpg);
 background-position: center;
 background-size: 100%;
 background-repeat: no-repeat;
@@ -239,7 +239,7 @@ top:80px;
   left:8%;
   height:calc( 20% + 200px);
   width:calc(20% + 200px);
-background-image: url(E:/Мой_сайт/Сайт-портфолио/kaneki.jpg);
+background-image: url(https://nek18k.github.io/sayt/kaneki.jpg);
 background-position: center;
 background-size: 100%;
 background-repeat: no-repeat;
@@ -286,15 +286,15 @@ background-size: 100%;
 .bar1{
   background-size: 100%;
 
-background-image: url(E:/Мой_сайт/Сайт-портфолио/deffka.jpg);
+background-image: url(https://nek18k.github.io/sayt/deffka.jpg);
 }
 
 .bar2{
-background-image: url(E:/Мой_сайт/Сайт-портфолио/toka2.jpg);
+background-image: url(https://nek18k.github.io/sayt/toka2.jpg);
 
 }
 .bar3{
-background-image: url(E:/Мой_сайт/Сайт-портфолио/toka3.jpg);
+background-image: url(https://nek18k.github.io/sayt/toka3.jpg);
 }
 
 /*Четвёртый блок*/
@@ -318,7 +318,7 @@ z-index: -2;
   width:calc(20% + 200px);
  top:15%;
  right:7%;
- background-image: url(E:/Мой_сайт/Сайт-портфолио/anime-gul.jpg);
+ background-image: url(https://nek18k.github.io/sayt/anime-gul.jpg);
  background-position: center;
  background-size: 100%;
  background-repeat: no-repeat;
